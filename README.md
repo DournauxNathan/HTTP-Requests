@@ -18,14 +18,11 @@
 
 ## Getting Started
 
-### Prerequisites
+## Usage
+1. Attach the HttpRequestManager script to a GameObject in your Unity scene.
+2. Configure the API endpoint in the script with the URL you want to use.
+3. Run the Unity project to see the HTTP requests in action.
+4. Check the Unity console for request responses.
 
-- [Unity](https://unity.com/) installed on your system.
-- A code editor for C# development (e.g., Visual Studio, Visual Studio Code).
-
-### Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/your-username/unity-http-request-demo.git
+## Contributing
+Contributions are welcome! Please feel free to submit issues, pull requests, or feature suggestions.
