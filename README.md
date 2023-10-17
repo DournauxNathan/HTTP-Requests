@@ -1,6 +1,6 @@
 # Unity HTTP Request Demo
 
-**Unity HTTP Request Demo** is a beginner-friendly Unity project that demonstrates how to make HTTP requests using UnityWebRequest. This project is an educational resource designed to help developers learn how to interact with web APIs in Unity.
+**Unity HTTP Request Demo** is a beginner-friendly Unity project that demonstrates how to make HTTP requests using UnityWebRequest.
 
 ## Table of Contents
 
