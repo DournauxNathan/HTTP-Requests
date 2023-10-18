@@ -1,7 +1,7 @@
 # Unity HTTP Request Demo
 
 **Unity HTTP Request Demo** is a beginner-friendly Unity project that demonstrates how to make HTTP requests using UnityWebRequest.
- NOTE : This demo uses the JSONPlaceHolder API. Which means it provides a read-only API. You can retreive data but cannot actually perform POST, PUT and DELETE operations.
+ NOTE : This demo uses the [JSONPlaceHolder API](https://jsonplaceholder.typicode.com). Which means it provides a read-only API. You can retreive data but cannot actually perform POST, PUT and DELETE operations.
  
 ## Table of Contents
 
