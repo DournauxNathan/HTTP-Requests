@@ -236,10 +236,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efbdbad9e114975499775cb5873d9dbd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: https://jsonplaceholder.typicode.com/posts/1
-  jsonData: '{\"title\":\"New Post\",\"body\":\"This is the body of the post\"}'
+  url: https://jsonplaceholder.typicode.com/posts
+  jsonData:
+    id: 4
+    title: New Post
   urlToUpdate: 
-  urlToDelete: 
+  urlToDelete: https://jsonplaceholder.typicode.com/posts/100
 --- !u!4 &2105291832
 Transform:
   m_ObjectHideFlags: 0
